@@ -1,8 +1,9 @@
+
 # Countie-Compose
 Countdown timer is timer application build with ❤️ and 🚀 jetpack compose for Jetpack Compose #AndroidDevChallenge
 
 ## Preview :movie_camera:
-in progress
+![Preview](https://user-images.githubusercontent.com/11576342/109999209-fe6a8880-7d37-11eb-9917-49f8ac7a769f.gif)
 
 # Android Developer Challeneg 2021 [Week 2]
 
